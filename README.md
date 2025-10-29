@@ -10,8 +10,8 @@ Data & Source Hierarchy: Primary Sources - UN-Water (2025), UNESCO (2023), World
 
 Secondary & Contextual Sources:BBC News, The Guardian, National Geographic, Reuters, and regional government reports (e.g., Cape Town Day 0)
 
+License: Open educational & non commercial use permitted with credit to original data sources & this repository.
+
 Link to watch on Youtube: https://youtu.be/393C3uqFz0Y
-
 Link to hear of Spotify: https://open.spotify.com/episode/5tQzBIOqHGxPRqpfxEKneN?si=f3AYoZDwQl6qqRJyqH6gzw
-
 All links: https://linktr.ee/VisualizedbyVamsi
